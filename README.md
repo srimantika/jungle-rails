@@ -2,6 +2,8 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+https://github.com/srimantika/jungle-rails/blob/659ba9fb323f3593055acab7b9c4d21d433caabd/docs/Sales%20display.png
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
